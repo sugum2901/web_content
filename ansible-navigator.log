@@ -1,0 +1,3 @@
+2024-12-10T07:22:14.988539+00:00 ERROR 'ansible_navigator.actions.run_4267.run' Can not step back while playbook in progress, :q! to exit
+2024-12-10T07:22:15.808748+00:00 ERROR 'ansible_navigator.actions.run_4267.run' Can not step back while playbook in progress, :q! to exit
+2024-12-10T07:22:16.061265+00:00 ERROR 'ansible_navigator.actions.run_4267.run' Can not step back while playbook in progress, :q! to exit
