@@ -2,13 +2,3 @@
 - name: webserver content changing
   hosts: dev
   tasks:
-    - name: set the blue tag
-      ansible.builtin.copy:
-        content: "Welcome to Blue Server"
-        dest: /var/www/html/index.html
-      tags: [never, blue]
-    - name: set the green tag
-      ansible.builtin.copy:
-        content: "Welcome to Green Server"
-        dest: /var/www/html/index.html
-      tags: [never, green]
